@@ -1,4 +1,3 @@
-# pomotask
 
 # Pomotask ✔️  
 **Pomodoro Timer + Task Manager**  
@@ -11,7 +10,7 @@
 
 A minimalist productivity app combining a **Pomodoro timer** and **task manager** with Firebase authentication and cloud storage.  
 
----
+
 
 ## Features ✨  
 ### 🕒 Pomodoro Timer  
@@ -33,18 +32,21 @@ A minimalist productivity app combining a **Pomodoro timer** and **task manager*
 - **Firebase** for real-time data and auth.  
 - **Google Cloud Storage** for file backups.  
 
----
 
-## Screenshots 📱  
-| Home Screen | Task List | Pomodoro Timer |  
-|-------------|-----------|----------------|  
-| ![Home](screenshots/main%20_screen_pic.jpg) | ![Tasks](screenshots/task_screen_pic.jpg) | ![Timer](screenshots/timer_screen_pic.jpg) |  
+ 
+## Screenshots 📱
 
-| Auth Screens |  
-|--------------|  
-| ![Login](screenshots/login_screen_pic.jpg) | ![Signup](screenshots/signup_screen_pic.jpg) |  
+<div align="center">
+  <img src="screenshots/main_screen_pic.jpg" width="30%" alt="Home Screen"/>
+  <img src="screenshots/task_screen_pic.jpg" width="30%" alt="Task List"/> 
+  <img src="screenshots/timer_screen_pic.jpg" width="30%" alt="Pomodoro Timer"/>
+</div>
 
----
+<div align="center">
+  <img src="screenshots/login_screen_pic.jpg" width="45%" alt="Login Screen"/>
+  <img src="screenshots/signup_screen_pic.jpg" width="45%" alt="Signup Screen"/> 
+</div>
+
 
 ## Download APK 📥  
 [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge)](https://github.com/JASLEENKAUR13/Pomotask/raw/main/apk/app-release.apk) 
