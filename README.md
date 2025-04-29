@@ -6,8 +6,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![APK Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge)](https://github.com/your-username/pomotask/releases/latest/download/app-release.apk)  
+ 
+[![APK Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge)](https://github.com/JASLEENKAUR13/Pomotask/raw/main/apk/app-release.apk)  
 
 A minimalist productivity app combining a **Pomodoro timer** and **task manager** with Firebase authentication and cloud storage.  
 
@@ -38,16 +38,16 @@ A minimalist productivity app combining a **Pomodoro timer** and **task manager*
 ## Screenshots 📱  
 | Home Screen | Task List | Pomodoro Timer |  
 |-------------|-----------|----------------|  
-| ![Home](Assets/Images/main%20_screen_pic.jpg) | ![Tasks](Assets/Images/task_screen_pic.jpg) | ![Timer](Assets/Images/timer_screen_pic.jpg) |  
+| ![Home](screenshots/main%20_screen_pic.jpg) | ![Tasks](screenshots/task_screen_pic.jpg) | ![Timer](screenshots/timer_screen_pic.jpg) |  
 
 | Auth Screens |  
 |--------------|  
-| ![Login](Assets/Images/login_screen_pic.jpg) | ![Signup](Assets/Images/signup_screen_pic.jpg) |  
+| ![Login](screenshots/login_screen_pic.jpg) | ![Signup](screenshots/signup_screen_pic.jpg) |  
 
 ---
 
 ## Download APK 📥  
-Get the latest APK [here](./apk/app-release.apk) (or from the [Releases](https://github.com/your-username/pomotask/releases) page).  
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge)](https://github.com/JASLEENKAUR13/Pomotask/raw/main/apk/app-release.apk) 
 
 ### How to Install:  
 1. Download the APK file.  
