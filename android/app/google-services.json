@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409013913722",
+    "project_id": "pomotask-c10ad",
+    "storage_bucket": "pomotask-c10ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409013913722:android:26bfaa3616c325667ed3c3",
+        "android_client_info": {
+          "package_name": "com.example.pomotask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZ8ENQsAOXUL-35IyjwREpZQyvrTjcSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
